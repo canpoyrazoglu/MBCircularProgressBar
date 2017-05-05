@@ -8,7 +8,7 @@
 
 @import UIKit;
 
-IB_DESIGNABLE
+//IB_DESIGNABLE
 /**
  * The MBCircularProgressBarView class is a UIView subclass that draws a circular progress bar with configurable attributes.
  * You can change the attributes within the Interface Builder using IBDesignables (https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/CreatingaLiveViewofaCustomObject.html )
